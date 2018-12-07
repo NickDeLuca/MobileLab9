@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplicación de Valores</string>
+    <string name="cancel">Cancelar</string>
+    <string name="add">Añadir</string>
+    <string name="symbol">Símbolo de Stock</string>
+    <string name="duplicateError">Ya tienes ese stock en tu cartera.</string>
+    <string name="symbolError">No existe stock con ese símbolo de teletipo.</string>
+    <string name="empty">Por favor agregue una stock a su cartera.</string>
+    <string name="noSelection">No se ha seleccionado ningún stock.</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Stock Application</string>
+    <string name="cancel">Cancel</string>
+    <string name="add">Add</string>
+    <string name="symbol">Stock Symbol</string>
+    <string name="duplicateError">You already have that stock in your portfolio.</string>
+    <string name="symbolError">No stock exists with that ticker symbol.</string>
+    <string name="empty">Please add a stock to your portfolio.</string>
+    <string name="noSelection">No stock has been selected.</string>
+</resources>
